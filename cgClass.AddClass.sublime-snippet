@@ -3,9 +3,12 @@
 cgClass.AddClass(
 	"${1:className}",
 	{
-		${2:attrKey} : ${3:attrValue}
-		${4:method} : function(${5:arguments}){
-			${6:/* do something */}
+		init : function(options){
+			var self = this;
+			${2:/* do something */}
+			self.outParam = self.applyMethods({
+				option : options
+			});
 		}
 	}
 );
