@@ -3,7 +3,10 @@
 cgClass.AddClass(
 	"${1:className}",
 	{
-		${2:snippet}
+		${2:attrKey} : ${3:attrValue}
+		${4:method} : function(${5:arguments}){
+			${6:/* do something */}
+		}
 	}
 );
 ]]></content>
