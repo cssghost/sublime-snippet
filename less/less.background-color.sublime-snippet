@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.bc(${1:#FFF});
+]]></content>
+	<tabTrigger>background-color</tabTrigger>
+	<scope>source.less</scope>
+</snippet>
