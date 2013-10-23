@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.fz(${1:14}px);
+]]></content>
+	<tabTrigger>font-size</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.fl-i();
+]]></content>
+	<tabTrigger>fl-i</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.pd(${1:5px});
+]]></content>
+	<tabTrigger>padding</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

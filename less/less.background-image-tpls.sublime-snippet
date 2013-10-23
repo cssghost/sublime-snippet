@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.bi-tpls(${1:"i.gif"});
+]]></content>
+	<tabTrigger>background-image-tpls</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

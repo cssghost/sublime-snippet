@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.fr();
+]]></content>
+	<tabTrigger>fr</tabTrigger>
+	<scope>source.less</scope>
+</snippet>
+

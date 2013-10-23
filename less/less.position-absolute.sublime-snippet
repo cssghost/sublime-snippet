@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.pos-a();
+]]></content>
+	<tabTrigger>position-absolute</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

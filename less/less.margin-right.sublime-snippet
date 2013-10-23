@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.mr(${1:5px});
+]]></content>
+	<tabTrigger>margin-right</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

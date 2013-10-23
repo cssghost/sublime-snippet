@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.vm();
+]]></content>
+	<tabTrigger>vertical-align-middle</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

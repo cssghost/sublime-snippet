@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.dis-ib();
+]]></content>
+	<tabTrigger>dis-ib</tabTrigger>
+	<scope>source.less</scope>
+</snippet>
+

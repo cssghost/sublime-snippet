@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+font: ${1:400} ${2:12px/18px} ${3:"Microsoft YaHei"};
+]]></content>
+	<tabTrigger>font</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

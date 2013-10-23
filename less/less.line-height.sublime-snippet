@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.lh(${1:18}px);
+]]></content>
+	<tabTrigger>line-height</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

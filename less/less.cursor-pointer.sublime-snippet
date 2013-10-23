@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.cur-p();
+]]></content>
+	<tabTrigger>cursor-pointer</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

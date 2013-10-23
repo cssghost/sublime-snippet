@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.pos-r();
+]]></content>
+	<tabTrigger>position-relative</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

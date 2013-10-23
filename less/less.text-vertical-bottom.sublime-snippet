@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.vb();
+]]></content>
+	<tabTrigger>vertical-align-bottom</tabTrigger>
+	<scope>source.less</scope>
+</snippet>
+

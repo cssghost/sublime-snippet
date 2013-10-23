@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.bg-none();
+]]></content>
+	<tabTrigger>background-none</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

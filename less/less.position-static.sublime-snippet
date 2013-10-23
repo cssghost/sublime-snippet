@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.pos-s();
+]]></content>
+	<tabTrigger>position-static</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

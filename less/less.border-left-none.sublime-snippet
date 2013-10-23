@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.bl-none();
+]]></content>
+	<tabTrigger>border-left-none</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

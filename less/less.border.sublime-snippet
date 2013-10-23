@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.bd(${1:#CCC}, ${2:${3:2}px, ${4:dotted}});
+]]></content>
+	<tabTrigger>border</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

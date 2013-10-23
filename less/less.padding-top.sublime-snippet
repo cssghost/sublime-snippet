@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.pt(${1:5px});
+]]></content>
+	<tabTrigger>padding-top</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

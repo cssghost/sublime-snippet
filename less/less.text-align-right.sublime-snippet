@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.tr();
+]]></content>
+	<tabTrigger>text-align-right</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

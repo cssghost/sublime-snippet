@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.bg(${1:"i.gif"}, ${2:no-repeat} ${3:0 0});
+]]></content>
+	<tabTrigger>background</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

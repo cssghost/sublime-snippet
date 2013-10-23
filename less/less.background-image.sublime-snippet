@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.bi(${1:"i.gif"});
+]]></content>
+	<tabTrigger>background-image</tabTrigger>
+	<scope>source.less</scope>
+</snippet>

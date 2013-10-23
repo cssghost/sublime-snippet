@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+.fw(${1:bold});
+]]></content>
+	<tabTrigger>font-weight</tabTrigger>
+	<scope>source.less</scope>
+</snippet>
