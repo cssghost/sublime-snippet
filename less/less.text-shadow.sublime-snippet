@@ -2,6 +2,6 @@
 	<content><![CDATA[
 .text-shadow(${1:0 1px 1px rgba(255, 255, 255, 0.75)});
 ]]></content>
-	<tabTrigger>text-shadow(</tabTrigger>
+	<tabTrigger>text-shadow</tabTrigger>
 	<scope>source.less</scope>
 </snippet>
