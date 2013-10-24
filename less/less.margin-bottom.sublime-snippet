@@ -2,6 +2,6 @@
 	<content><![CDATA[
 .mb(${1:5px});
 ]]></content>
-	<tabTrigger>margin</tabTrigger>
+	<tabTrigger>margin-bottom</tabTrigger>
 	<scope>source.less</scope>
 </snippet>
