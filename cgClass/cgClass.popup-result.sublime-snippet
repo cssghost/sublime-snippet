@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+cgClass.Create(
+	"Popup",
+	{
+		type: "result",
+		${1:title: "${2:result}",}
+		${3:doneText : "${4:确定按钮}",}
+		${5:time : ${6:3000},}
+		${7:content : function(opt){\},}
+		${8:done : function(opt){\},}
+		message : "${9:测试弹出框}"
+	}
+);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cgPopup-result</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
+

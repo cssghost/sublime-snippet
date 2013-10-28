@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+cgClass.Create(
+	"Popup",
+	{
+		type: "confirm",
+		${1:title: "${2:result}",}
+		${3:doneText : "${4:确定按钮}",}
+		${5:done : function(opt){\},}
+		${6:cancel : function(opt){\},}
+		message : "${7:测试弹出框}"
+	}
+);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cgPopup-confirm</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
+

@@ -1,0 +1,29 @@
+<snippet>
+	<content><![CDATA[
+cgClass.Create(
+	"Popup",
+	{
+		type: "popup",
+		${1:title: "${2:result}",}
+		template : "${3:<div></div>}",
+		addClass : "${4:popupClass}",
+		isDrag : ${5:true},
+		isOnly : ${6:false},
+		content : function(opt){
+			${7:/* do somethings */}
+		},
+		done : function(opt){
+			${8:/* do somethings */}
+		},
+		cancel : function(opt){
+			${9:/* do somethings */}
+		}
+	}
+);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cgPopup-default</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
+

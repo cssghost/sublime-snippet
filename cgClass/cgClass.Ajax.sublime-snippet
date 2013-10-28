@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+cgClass.Ajax({
+	url : ${1:"url"},
+	type: "${2:get}",
+	dataType: "${3:json}",
+	${4:queue : "",}
+	${5:timeout: (30 * 1000),}
+	${6:beforeSend : function(xhr, ajax){\},}
+	${7:complete: function( request, statusText ){\},}
+	success: function( request, statusText ){
+		${8:/* do something */}
+	},
+	error: function( request, statusText, error ){}
+});
+]]></content>
+	<tabTrigger>cgAjax</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
