@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+cgClass.Create(
+	"ModulePopupLogin",
+	{
+		url : "${1:url}",
+		dataType : "${2:json}",
+		autoShow : ${3:false},
+		callback : function(result, opt){
+			${4:/* do somethings */}
+		}
+	}
+);
+]]></content>
+	<tabTrigger>modulePopupLogin</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
+
