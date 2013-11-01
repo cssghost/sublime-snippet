@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+cgClass.Create(
+	"Verification",
+	{
+		wrap : \$("${1:.wrap}"),
+        hookDom: ".${2:Js-verification}",
+        inputWrap : ".${3:input-wrap}",
+        ${4:map : "",}
+        btn : \$(".${5:Js-btn}"),
+        successTemp : null,
+        errorTemp : null,
+        error : function($errorDom){
+        	${6:/* do somethings */}
+        },
+        success : function($btn, event){
+        	${7:/* do somethings */}
+        }
+	}
+);
+]]></content>
+	<tabTrigger>verification</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
+
